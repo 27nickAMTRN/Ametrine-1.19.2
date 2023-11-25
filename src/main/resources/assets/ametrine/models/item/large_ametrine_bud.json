@@ -1,0 +1,11 @@
+{
+  "parent": "ametrine:item/ametrine_bud",
+  "textures": {
+    "layer0": "ametrine:block/large_ametrine_bud"
+  },
+  "display": {
+    "fixed": {
+      "translation": [ 0, 4, 0 ]
+    }
+  }
+}

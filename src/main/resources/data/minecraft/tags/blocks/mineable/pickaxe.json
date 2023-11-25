@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "ametrine:ametrine_cluster",
+    "ametrine:small_ametrine_bud",
+    "ametrine:medium_ametrine_bud",
+    "ametrine:large_ametrine_bud",
+    "ametrine:ametrine_block",
+    "ametrine:budding_ametrine",
+    "ametrine:citrine_cluster",
+    "ametrine:small_citrine_bud",
+    "ametrine:medium_citrine_bud",
+    "ametrine:large_citrine_bud",
+    "ametrine:citrine_block",
+    "ametrine:budding_citrine",
+    "ametrine:deepslate_ametrine_ore",
+    "ametrine:deepslate_amethyst_ore",
+    "ametrine:deepslate_citrine_ore"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+    {"model": "ametrine:block/ametrine_block", "weight": 50},
+    {"model": "ametrine:block/ametrine_block_1", "weight": 50},
+      {"model": "ametrine:block/ametrine_block_2", "weight": 40},
+      {"model": "ametrine:block/ametrine_block_3", "weight": 50},
+      {"model": "ametrine:block/ametrine_block_4", "weight": 35},
+      {"model": "ametrine:block/ametrine_block_5", "weight": 35},
+      {"model": "ametrine:block/ametrine_block_6", "weight": 101},
+      {"model": "ametrine:block/ametrine_block_7", "weight": 103},
+      {"model": "ametrine:block/ametrine_block_8", "weight": 99},
+      {"model": "ametrine:block/ametrine_block_9", "weight": 106},
+      {"model": "ametrine:block/ametrine_block_10", "weight": 97},
+      {"model": "ametrine:block/ametrine_block_11", "weight": 108}
+      ]
+  }
+}

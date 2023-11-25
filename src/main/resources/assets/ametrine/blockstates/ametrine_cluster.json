@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "ametrine:block/ametrine_cluster",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "ametrine:block/ametrine_cluster",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "ametrine:block/ametrine_cluster",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "ametrine:block/ametrine_cluster",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "ametrine:block/ametrine_cluster"
+    },
+    "facing=west": {
+      "model": "ametrine:block/ametrine_cluster",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:fermented_spider_eye"
+        },
+        {
+            "item": "ametrine:glass_vial"
+        },
+        {
+            "item": "ametrine:flawless_ametrine_chunk"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        }
+    ],
+    "result": {
+        "item": "ametrine:antidote",
+        "count": 1
+    }
+}

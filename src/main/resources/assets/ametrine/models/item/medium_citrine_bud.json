@@ -1,0 +1,11 @@
+{
+  "parent": "ametrine:item/citrine_bud",
+  "textures": {
+    "layer0": "ametrine:block/medium_citrine_bud"
+  },
+  "display": {
+    "fixed": {
+      "translation": [ 0, 6, 0 ]
+    }
+  }
+}

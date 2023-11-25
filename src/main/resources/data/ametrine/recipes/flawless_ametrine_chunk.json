@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "ametrine:ametrine_chunk"
+        },
+        {
+            "item": "ametrine:ametrine_chunk"
+        },
+        {
+            "item": "ametrine:ametrine_chunk"
+        },
+        {
+            "item": "ametrine:ametrine_chunk"
+        },
+        {
+            "item": "ametrine:ametrine_chunk"
+        },
+        {
+            "item": "ametrine:ametrine_chunk"
+        },
+        {
+            "item": "ametrine:ametrine_chunk"
+        },
+        {
+            "item": "ametrine:ametrine_chunk"
+        },
+        {
+            "item": "ametrine:ametrine_chunk"
+        }
+    ],
+    "result": {
+        "item": "ametrine:flawless_ametrine_chunk",
+        "count": 1
+    }
+}

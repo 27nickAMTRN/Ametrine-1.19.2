@@ -1,0 +1,73 @@
+{
+  "item.ametrine.ametrine_chunk": "Flawed Ametrine Chunk",
+  "item.ametrine.amethyst_chunk": "Flawed Amethyst Chunk",
+  "item.ametrine.citrine_chunk": "Flawed Citrine Chunk",
+  "item.ametrine.citrine_shard": "Citrine Shard",
+  "item.ametrine.ametrine_shard": "Ametrine Shard",
+
+  "item.ametrine.ametrine_grown_melon_slice": "Ametrine Grown Melon Slice",
+  "item.ametrine.citrine_glazed_apple": "Citrine Glazed Apple",
+  "item.ametrine.amethyst_covered_berries": "Amethyst Covered Berries",
+
+  "item.ametrine.flawless_citrine_chunk": "§6Flawless Citrine Chunk",
+  "item.ametrine.flawless_ametrine_chunk": "Flawless Ametrine Chunk",
+  "item.ametrine.flawless_amethyst_chunk": "Flawless Amethyst Chunk",
+
+  "death.attack.quartz_poisoning": "%1$s passed away due to kidney complications",
+  "death.attack.quartz_poisoning.player": "%1$s passed away due to kidney complications whilst fighting %2$s",
+  "death.attack.ametrine_collision": "%1$s gave in to the riptide",
+  "death.attack.ametrine_collision.player": "%1$s gave in to the riptide whilst fighting %2$s",
+
+  "item.ametrine.glass_vial": "Glass Vial",
+  "item.ametrine.antidote": "Antidote",
+
+
+  "item.ametrine.ametrine_glaive": "§dAmetrine Glaive",
+  "item.ametrine.ametrine_longsword": "§dAmetrine Longsword",
+  "item.ametrine.ametrine_scythe": "§dAmetrine Scythe",
+  "item.ametrine.ametrine_warfan": "§dAmetrine Warfan",
+
+
+
+  "item.ametrine.ametrine_helmet": "§dAmethyst Winged Helmet",
+  "item.ametrine.ametrine_boots": "§dAmethyst Winged Boots",
+
+  "item.ametrine.citrine_helmet": "§6Citrine Horned Helmet",
+  "item.ametrine.citrine_boots": "§6Citrine Horned Boots",
+
+  "item.ametrine.royal_ametrine_crown": "§6Citrine Ornate Crown ",
+  "item.ametrine.royal_ametrine_cape": "§6Citrine Royal Cape",
+
+  "item.ametrine.ametrine_witchs_hat": "§6Citrine Witch's Hat",
+  "item.ametrine.cropped_ametrine_robes": "§6Cropped Citrine Robes",
+
+  "item.ametrine.elf_ears": "Silly Little Elf Ears",
+  "item.ametrine.citrine_ram_horns": "§6Citrine Ram Horns",
+
+  "item.ametrine.citrine_mask": "§6Citrine Mask",
+
+
+  "block.ametrine.deepslate_ametrine_ore": "Ametrine Geode Remnant",
+  "block.ametrine.deepslate_citrine_ore": "Citrine Geode Remnant",
+  "block.ametrine.deepslate_amethyst_ore": "Amethyst Geode Remnant",
+
+
+  "block.ametrine.citrine_block": "Citrine block",
+  "block.ametrine.budding_citrine": "Budding Citrine",
+  "block.ametrine.citrine_cluster": "Citrine Cluster",
+  "block.ametrine.large_citrine_bud": "Large Citrine Bud",
+  "block.ametrine.medium_citrine_bud": "Medium Citrine Bud",
+  "block.ametrine.small_citrine_bud": "Small Citrine Bud",
+
+  "block.ametrine.ametrine_block": "Ametrine Block",
+  "block.ametrine.budding_ametrine": "Budding Ametrine",
+  "block.ametrine.ametrine_cluster": "Ametrine Cluster",
+  "block.ametrine.large_ametrine_bud": "Large Ametrine Bud",
+  "block.ametrine.medium_ametrine_bud": "Medium Ametrine Bud",
+  "block.ametrine.small_ametrine_bud": "Small Ametrine Bud",
+
+  "effect.ametrine.quartz_poisoning": "Quartz Poisoning",
+  "sounds.ametrine.reap": "Scythe Reaps",
+
+  "itemGroup.ametrine.ametrine": "Ametrine"
+}
